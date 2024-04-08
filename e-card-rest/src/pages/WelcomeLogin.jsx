@@ -21,7 +21,7 @@ const WelcomeLogin = () => {
             </ul>
           </nav>
           <p className='ml-[70px] font-medium text-[20px] mt-[60px]'>Login</p>
-          <p className='ml-[70px]'>Login with your valid cridetuals</p>
+          <p className='ml-[70px]'>Login with your valid cridentuals</p>
           <form className='ml-[70px] mt-[50px]'>
             <p><label for="email">Email</label></p>
             
